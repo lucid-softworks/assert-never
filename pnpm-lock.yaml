@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@lucid-softworks/oxfmt-config':
-        specifier: ^0.1.0
-        version: 0.1.0(oxfmt@0.60.0)
+        specifier: ^0.1.1
+        version: 0.1.1(oxfmt@0.60.0)
       '@lucid-softworks/oxlint-config':
         specifier: ^0.1.0
         version: 0.1.0(oxlint@1.75.0)
@@ -84,8 +84,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.31':
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
 
-  '@lucid-softworks/oxfmt-config@0.1.0':
-    resolution: {integrity: sha512-UplErr1ofbBerMKPjFnFDA6KdJw3KzMmfMyE525WgyWixAc+aSo163HdgzQsFI+oQlR4cZB/58VlICQE0Acv4A==}
+  '@lucid-softworks/oxfmt-config@0.1.1':
+    resolution: {integrity: sha512-xo02RS81Udt6436TeMeWsJpL5Hb+JbQNFzoGVZE1cynzLn5lY9p9iDEUzknDrMJGuF9a9QiNfc5gizxCZPXJlA==}
     engines: {node: '>=22'}
     peerDependencies:
       oxfmt: ^0.60.0
@@ -1039,7 +1039,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@lucid-softworks/oxfmt-config@0.1.0(oxfmt@0.60.0)':
+  '@lucid-softworks/oxfmt-config@0.1.1(oxfmt@0.60.0)':
     dependencies:
       oxfmt: 0.60.0
 
