@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/assert-never",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Exhaustiveness assertions with the unexpected runtime value attached.",
   "homepage": "https://github.com/lucid-softworks/assert-never#readme",
   "bugs": {
